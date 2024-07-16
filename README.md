@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm severonub</h1> <img src="https://crafatar.com/renders/head/4e49d13e-9947-4802-b725-83099a40c7db&overlay">
+<h1 align="center">Hi 👋, I'm severonub</h1> <img src="https://crafatar.com/renders/head/4e49d13e-9947-4802-b725-83099a40c7db?&overlay">
 <h3 align="center">A Java Developer focused on Minecraft Server development!</h3>
 
 <h3 align="left">Connect with me:</h3>
